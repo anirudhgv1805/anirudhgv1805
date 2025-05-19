@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm Anirudh, An aspiring Software developer, always interested in learning new stuffs and experimenting it, currently working on a all platform app for note management and activity manager.
-**MindCue** [Checkout the repo for more details.](https://github.com/anirudhgv1805/mind-cue)
+Hii!!, I'm **Anirudh**, An aspiring Software developer, always interested in learning new stuffs and experimenting it, currently working on a stock management application for a textile company.
+**StockEase** [Checkout the repo for more details.](https://github.com/anirudhgv1805/stock-ease)
 
 
 ## 🌐 Socials:
