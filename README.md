@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hii!!, I'm **Anirudh**, An aspiring Software developer, always interested in learning new stuffs and experimenting it, currently working on a stock management application for a textile company.
-**StockEase** [Checkout the repo for more details.](https://github.com/anirudhgv1805/stock-ease)
+Hii!!, I'm **Anirudh**, Trying to becmome a Software developer, always interested in learning new stuffs and experimenting it, currently trying to create a fully packed IDE for Arduino Project Development
+**To Do Pro** [Checkout the repo for more details.](https://github.com/anirudhgv1805/arduino-studio)
 
 
 ## 🌐 Socials:
