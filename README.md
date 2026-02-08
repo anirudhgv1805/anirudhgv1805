@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hii!!, I'm **Anirudh**, Trying to becmome a Software developer, always interested in learning new stuffs and experimenting it, currently trying to create a fully packed IDE for Arduino Project Development
-**To Do Pro** [Checkout the repo for more details.](https://github.com/anirudhgv1805/arduino-studio)
+**Arduino Studio** [Checkout the repo for more details.](https://github.com/anirudhgv1805/arduino-studio)
 
 
 ## 🌐 Socials:
