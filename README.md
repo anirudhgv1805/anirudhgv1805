@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hii!!, I'm **Anirudh**, Trying to becmome a Software developer, always interested in learning new stuffs and experimenting it, currently trying to create a fully packed IDE for Arduino Project Development
-**Arduino Studio** [Checkout the repo for more details.](https://github.com/anirudhgv1805/arduino-studio)
+Hi!, I'm **Anirudh**, working on to become a Software developer, always interested in learning new stuffs and experimenting it, currently trying to create a fully packed Analytics Dashboard for TNEA-Counselling
+**TNEA Analytics** [Checkout the repo for more details.](https://github.com/anirudhgv1805/tnea-analytics)
 
 
 ## 🌐 Socials:
